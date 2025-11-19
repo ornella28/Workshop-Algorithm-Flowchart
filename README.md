@@ -162,13 +162,39 @@ END
 Write the algorithm and draw the flowchart for a program that takes the
 temperature of 7 days, finds the average temperature, and displays it.
 
+### ✔ Pseudocode
+
+```text
+
+START
+    INPUT Temp1,Temp2,Temp3,Temp4,Temp5,Temp6,Temp7
+    average temperature = (Temp1+Temp2+Temp3+Temp4+Temp5+Temp6+Temp7)/7
+    PRINT "average temperature"
+END
+```
+---
+### ✔ Flowchart
+![Flowchart](images/Exercise6.drawio.png)
 ---
 
 ## 7. Calculate Area of a Rectangle
 
 Create an algorithm and flowchart to input length and width, calculate
 the area (**Area = Length × Width**), and display the result.
+### ✔ Pseudocode
 
+```text
+
+START
+    INPUT length
+    INPUT width
+    area=length*width
+    PRINT "area"
+END
+```
+### ✔ Flowchart
+![Flowchart](images/Exercise7.drawio.png)
+---
 ---
 
 ## 8. Determine Pass or Fail
