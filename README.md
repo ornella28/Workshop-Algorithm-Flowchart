@@ -124,7 +124,7 @@ END
 ```
 
 ### ✔ Flowchart
-![Flowchart]()
+![Flowchart](images/Exercise4.drawio.png)
 ---
 
 
