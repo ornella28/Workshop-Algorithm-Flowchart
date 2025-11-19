@@ -86,12 +86,18 @@ multiplication table from 1 to 10 using a loop.
 
 ```text
 START
+  INPUT NUMBER
+  multiplication table = number * count
+   IF count<=10 THEN
+    REPEAT count = count + 1
+    END REPEAT
+   PRINT "multiplication table"
 
 END
 ```
 
 ### ✔ Flowchart
-
+![Flowchart](images/Exercise3.drawio.png)
 ---
 
 ## 4. Positive, Negative, or Zero Check
@@ -99,7 +105,28 @@ END
 Write the algorithm and flowchart to input a number and display whether
 it is positive, negative, or zero.
 
+### ✔ Pseudocode
+
+```text
+
+START
+    INPUT number
+     IF number >0 THEN
+      PRINT "POSITIVE"
+       ELSE
+        IF number<0 THEN
+        PRINT "NEGATIVE"
+        END IF
+        ELSE
+     PRINT "ZERO"
+END
+
+```
+
+### ✔ Flowchart
+![Flowchart]()
 ---
+
 
 ## 5. Simple Interest Calculator
 
