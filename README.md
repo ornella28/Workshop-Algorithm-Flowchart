@@ -57,6 +57,23 @@ Write the algorithm and draw the flowchart for a program that inputs
 marks for 3 subjects, calculates the total and average, and displays
 both.
 
+### ✔ Pseudocode
+
+```text
+START
+    INPUT mark1
+    INPUT mark2
+    INPUT mark3
+    total= mark1 + makr2 + makr3
+    average = total / 3
+    PRINT total
+    PRINT average
+END
+```
+
+### ✔ Flowchart
+
+
 ---
 
 ## 3. Display Multiplication Table
@@ -64,6 +81,15 @@ both.
 Create an algorithm and flowchart that input a number and display its
 multiplication table from 1 to 10 using a loop.
 
+
+### ✔ Pseudocode
+
+```text
+
+```
+
+### ✔ Flowchart
+![Flowchart EX 2](images/flowchart1.jpg)
 ---
 
 ## 4. Positive, Negative, or Zero Check
