@@ -73,7 +73,7 @@ END
 
 ### ✔ Flowchart
 
-
+![Flowchart](images/Exercise2.drawio.png)
 ---
 
 ## 3. Display Multiplication Table
@@ -85,11 +85,13 @@ multiplication table from 1 to 10 using a loop.
 ### ✔ Pseudocode
 
 ```text
+START
 
+END
 ```
 
 ### ✔ Flowchart
-![Flowchart EX 2](images/flowchart1.jpg)
+
 ---
 
 ## 4. Positive, Negative, or Zero Check
