@@ -140,6 +140,22 @@ interest using the formula:
 - **T = Time** → number of years
 
 ---
+### ✔ Pseudocode
+
+```text
+
+START
+    INPUT P
+    INPUT R
+    INPUT T
+    SI = (P*R*T)/100
+END
+
+```
+
+### ✔ Flowchart
+![Flowchart](images/Exercise5.drawio.png)
+---
 
 ## 6. Average Temperature Calculation
 
