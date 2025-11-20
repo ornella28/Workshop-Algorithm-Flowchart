@@ -240,7 +240,7 @@ START
 END
 ```
 ### ✔ Flowchart
-![Flowchart]()
+![Flowchart](images/Exercise9.drawio.png)
 ---
 
 ## 10. Calculate Discount on Purchase
@@ -249,4 +249,12 @@ Write the algorithm and draw the flowchart for a program that inputs the
 purchase amount and gives a **10% discount** if the amount is greater
 than 1000.
 
+## ✔ Pseudocode
+
+```text
+
+START
+   
+END
+```
 ---
