@@ -254,7 +254,14 @@ than 1000.
 ```text
 
 START
-   
+   INPUT amount
+   IF amount > 1000 THEN
+   discount = (amount)*10/100
+   purchased amount = amount - discount
+   ELSE
+   purchased amount = amount
 END
 ```
+### ✔ Flowchart
+![Flowchart](images/Exercise10.drawio.png)
 ---
